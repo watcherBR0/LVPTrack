@@ -90,3 +90,23 @@ python lib/test/utils/transform_got10k.py # need to modify tracker configs and n
 
 ## Acknowledgement
 Our code is built upon [LiteTrack](https://github.com/TsingWei/LiteTrack). Also grateful for PyTracking.
+
+## Citation
+If our work is useful for your research, please consider citing:
+
+```
+@inproceedings{DBLP:conf/aaai/WuYHWZZR25,
+  author       = {Hongjing Wu and
+                  Siyuan Yao and
+                  Feng Huang and
+                  Shu Wang and
+                  Linchao Zhang and
+                  Zhuoran Zheng and
+                  Wenqi Ren},
+  title        = {LVPTrack: High Performance Domain Adaptive {UAV} Tracking with Label
+                  Aligned Visual Prompt Tuning},
+  booktitle    = AAAI,
+  pages        = {8395--8403},
+  year         = {2025},
+}
+```
